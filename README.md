@@ -1,2 +1,1 @@
-# Portuguese
-Portuguese audio samples
+# ICASSP2022_demo
